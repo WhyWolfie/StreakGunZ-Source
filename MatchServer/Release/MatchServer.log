@@ -1,0 +1,85 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+C:\Users\a\Desktop\StreakGGZ\Streak Source\CSCommon\Include\RealCPNet.h(42): warning C4091: 'typedef ': ignored on left of 'RCP_IO_OPERATION' when no variable is declared
+C:\Users\a\Desktop\StreakGGZ\Streak Source\MatchServer\stdafx.h(68): warning C4005: '_QUEST_ITEM': macro redefinition
+  C:\Users\a\Desktop\StreakGGZ\Streak Source\CSCommon\MFeatureDefine.h(21): note: see previous definition of '_QUEST_ITEM'
+C:\Users\a\Desktop\StreakGGZ\Streak Source\MatchServer\stdafx.h(69): warning C4005: '_MONSTER_BIBLE': macro redefinition
+  C:\Users\a\Desktop\StreakGGZ\Streak Source\CSCommon\MFeatureDefine.h(22): note: see previous definition of '_MONSTER_BIBLE'
+  ChildFrm.cpp
+  CommandLogView.cpp
+  crash.cpp
+C:\Users\a\Desktop\StreakGGZ\Streak Source\MatchServer\StackWalker\StackWalker.h(120): warning C4091: 'typedef ': ignored on left of 'StackWalker::CallstackEntryType' when no variable is declared
+  ExceptionAttacher.cpp
+  MainFrm.cpp
+  MatchServer.cpp
+  MatchServerDoc.cpp
+  MatchServerView.cpp
+  OutputView.cpp
+  StackWalker.cpp
+C:\Users\a\Desktop\StreakGGZ\Streak Source\MatchServer\StackWalker\StackWalker.h(120): warning C4091: 'typedef ': ignored on left of 'StackWalker::CallstackEntryType' when no variable is declared
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\dbghelp.h(1540): warning C4091: 'typedef ': ignored on left of '<unnamed-enum-hdBase>' when no variable is declared
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\dbghelp.h(3056): warning C4091: 'typedef ': ignored on left of '<unnamed-enum-sfImage>' when no variable is declared
+C:\Users\a\Desktop\StreakGGZ\Streak Source\MatchServer\StackWalker\StackWalker.cpp(356): warning C4091: 'typedef ': ignored on left of 'StackWalkerInternal::IMAGEHLP_MODULE64_V2' when no variable is declared
+  TrayIcon.cpp
+  MBMatchServer.cpp
+  MBMatchServerConfigReloader.cpp
+  MBMatchAsyncDBJob_BuyBountyItem.cpp
+  MBMatchAsyncDBJob_Character.cpp
+  MBMatchAsyncDBJob_GambleItem.cpp
+  MBMatchAsyncDBJob_GambleQuestItem.cpp
+  MBMatchAsyncDBJob_GameOnLogin.cpp
+  MBMatchAsyncDBJob_NetmarbleLogin.cpp
+  MBMatchAsyncDBJob_NHNLogin.cpp
+  Compiling...
+  MBMatchAsyncDBJob_SellItem.cpp
+  MBMatchAsyncDBJob_TakeoffItem.cpp
+  MBMatchAsyncDBJob_UpdateCharLevel.cpp
+  MBMatchAsyncDBJob_UpdateCharPlayInfo.cpp
+  MBMatchAsyncDBJob_UpdateEquipItem.cpp
+  MBMatchAsyncJob_GetCpuInfo.cpp
+  OnProcessAsyncJob.cpp
+C:\Users\a\Desktop\StreakGGZ\Streak Source\RealSpace2\Include\rvector.h(4): warning C4005: 'ASSERT': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afx.h(366): note: see previous definition of 'ASSERT'
+  MBMatchAsyncDBJob_BringAccountItem.cpp
+  MBMatchAsyncDBJob_BringAccountItemStackable.cpp
+  MBMatchAsyncDBJob_BringBackAccountItem.cpp
+  MBMatchAsyncDBJob_BringBackAccountItemStackable.cpp
+  MBMatchServer_AntiHack.cpp
+  MBMatchServer_CountryFilter.cpp
+  MBMatchServer_Item.cpp
+  MBMatchServer_Login.cpp
+  MBMatchServer_OnCommand.cpp
+C:\Users\a\Desktop\StreakGGZ\Streak Source\RealSpace2\Include\rvector.h(4): warning C4005: 'ASSERT': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afx.h(366): note: see previous definition of 'ASSERT'
+  MBMatchServer_ServerKeeper.cpp
+  MBMatchServer_Stage.cpp
+  MMatchServer_Schedule.cpp
+  MBMatchTest.cpp
+  Compiling...
+  MBMatchTest_Gameguard.cpp
+  MBMatchTest_Killtracker.cpp
+  TestCRC32Server.cpp
+  TestCRCNetModule.cpp
+  TestCRCPlayer.cpp
+  TestCRCStage.cpp
+  TestResourceCRC32Cache_ServerClient.cpp
+  TestConnectHistory.cpp
+  TestDuelTournamentMatchMaker.cpp
+  TestMMatchObjectHistory.cpp
+  UnitTest.cpp
+  MBMatchNetmarbleBilling.cpp
+  MBMatchAuth.cpp
+  MBMatchXTrapCC.cpp
+  XTrap4Server.cpp
+  MBMatchNHNAuth.cpp
+  MBMatchNHNRTA.cpp
+  MBMatchGameGuard.cpp
+  MBMatchSecurity.cpp
+  MBMatchKillTracker.cpp
+  Compiling...
+  MBMatchGameOnAuth.cpp
+  ChildFrm.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+  Generating code
+  Finished generating code
+  MatchServer.vcxproj -> C:\Users\a\Desktop\StreakGGZ\Streak Source\MatchServer\..\Build\MatchServer\MatchServer.exe
